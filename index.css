@@ -1,0 +1,92 @@
+.navbar{
+    background-color: blue;
+}
+
+p {
+    color: #fff; /* Couleur du texte principal */
+    -webkit-text-stroke: 1px #000; /* Largeur et couleur du contour (pour les navigateurs basés sur WebKit, comme Chrome et Safari) */
+    text-shadow: px #000; /* Pour les navigateurs non basés sur WebKit, comme Firefox */
+  }
+
+
+  .nom{
+    font-size: 24px; /* Taille du texte */
+    color:  #957f00; /* Couleur du texte principal */
+    -webkit-text-stroke: 1px #957f01; /* Contour pour les navigateurs basés sur WebKit (Chrome, Safari) */
+    text-shadow:  white; /* Contour pour les autres navigateurs */
+  }
+
+
+  .contour-texte {
+    color:black
+  }
+  #ghazalinabil{
+    -webkit-text-stroke: 1px #957f00;
+    background-color: black;
+
+  }
+
+  #bouton_expertise{
+    color:  white;
+    
+  }
+
+
+  #contact{
+    font-size: 24px; /* Taille du texte */
+    color:  #000000; /* Couleur du texte principal */
+    -webkit-text-stroke: 1px #957f00; /* Contour pour les navigateurs basés sur WebKit (Chrome, Safari) */
+    text-shadow: 1px 1px 1px #251f00; /* Contour pour les autres navigateurs */
+    background-color: black;
+  }
+
+  
+ #expertise{
+    font-size: 24px; /* Taille du texte */
+    color:  #000000; /* Couleur du texte principal */
+    -webkit-text-stroke: 1px rgb(0, 0, 0); /* Contour pour les navigateurs basés sur WebKit (Chrome, Safari) */
+    text-shadow: 1px 1px 1px #957f00; /* Contour pour les autres navigateurs */
+    background-color: black;
+  }
+
+
+
+  #portrait{
+   -webkit-box-reflect: right; 
+   padding-top: 3em;
+   max-width: 100%;
+   height: auto;
+    
+  } */
+
+
+
+  #portfolio{
+    background-color:black;
+  }
+
+  h1{
+    -webkit-text-stroke: 1px white;
+  }
+
+
+  h2{
+    -webkit-text-stroke: 1px white;
+  }
+
+  .nomTitel{
+    font-size:46px; /* Taille du texte */
+    color:  #957f00; /* Couleur du texte principal */
+    -webkit-text-stroke: 1px white; /* Contour pour les navigateurs basés sur WebKit (Chrome, Safari) */
+    text-shadow:  white; /* Contour pour les autres navigateurs */
+  }
+
+
+.job{
+    
+        font-size:46px; /* Taille du texte */
+        /* Couleur du texte principal */
+        -webkit-text-stroke: 1px  #f1d500; /* Contour pour les navigateurs basés sur WebKit (Chrome, Safari) */
+        text-shadow:  #957f00; /* Contour pour les autres navigateurs */
+      
+}
